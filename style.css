@@ -73,10 +73,7 @@ input, select, textarea, button { font-family: inherit; }
 
 /* Logo */
 .logo { display: flex; align-items: center; flex-shrink: 0; }
-.logo-text { display: flex; flex-direction: column; line-height: 1.15; }
-.logo-small { font-family: var(--fh); font-size: 9px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); }
-.logo-big { font-family: var(--fh); font-size: 18px; font-weight: 600; color: var(--blue); }
-.logo-big strong { color: var(--red); font-weight: 800; }
+.logo-img { height: 52px; width: auto; display: block; }
 
 /* Nav */
 .nav { margin-left: auto; }
